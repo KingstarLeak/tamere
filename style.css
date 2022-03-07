@@ -1,3 +1,6 @@
+body{
+	background-image: urL("img/lefond.gif");
+}
 
 h1{
 text-align: center;
@@ -7,5 +10,5 @@ background-color: red;
 p{
 font-family: Verdana;
 font-style: italic;
-color: green;
+color: white;
 }
